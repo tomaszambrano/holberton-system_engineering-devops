@@ -1,0 +1,3 @@
+#!/bin/bash
+NUM="5.00"'\n' | echo $NUM
+
