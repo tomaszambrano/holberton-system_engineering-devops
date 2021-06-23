@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head
+printf %s'\n' ls -lt | head
