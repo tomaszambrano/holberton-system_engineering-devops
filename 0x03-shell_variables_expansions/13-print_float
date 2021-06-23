@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM="5.00"'\n' | echo $NUM%f
+printf "%.2f\n" $NUM
